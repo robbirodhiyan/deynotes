@@ -1,0 +1,25 @@
+{
+  "brand": {
+    "name": "Debiyan"
+  },
+  "branding": {
+    "primaryColor": "#2563EB",
+    "backgroundColor": "#F8FAFC",
+    "icon": "./assets/images/icon.png",
+    "splashImage": "./assets/images/splash-icon.png"
+  },
+  "app": {
+    "name": "DeyNotes",
+    "key": "deynotes",
+    "slug": "deynotes",
+    "scheme": "deynotes",
+    "androidPackage": "app.debiyan.deynotes",
+    "iosBundleIdentifier": "app.debiyan.deynotes",
+    "databaseName": "deynotes.db"
+  },
+  "release": {
+    "owner": "",
+    "repository": "deynotes",
+    "apkPrefix": "deynotes"
+  }
+}
